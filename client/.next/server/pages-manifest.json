@@ -1,0 +1,18 @@
+{
+  "/_app": "pages/_app.js",
+  "/_document": "pages/_document.js",
+  "/admin": "pages/admin.html",
+  "/forgot-password": "pages/forgot-password.html",
+  "/": "pages/index.js",
+  "/login": "pages/login.html",
+  "/post/[_id]": "pages/post/[_id].html",
+  "/post/view/[_id]": "pages/post/view/[_id].js",
+  "/register": "pages/register.html",
+  "/user/[username]": "pages/user/[username].html",
+  "/user/dashboard": "pages/user/dashboard.html",
+  "/user/following": "pages/user/following.html",
+  "/user/post/[_id]": "pages/user/post/[_id].html",
+  "/user/profile/update": "pages/user/profile/update.html",
+  "/_error": "pages/_error.js",
+  "/404": "pages/404.html"
+}
